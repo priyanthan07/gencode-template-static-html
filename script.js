@@ -7,6 +7,7 @@ if (!gl) {
   throw new Error("WebGL not supported");
 }
 
+
 // Vertex shader source
 const vertexShaderSource = `
     attribute vec3 a_position;
