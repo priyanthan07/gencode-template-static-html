@@ -9,6 +9,7 @@ if (!gl) {
 
 
 
+
 // Vertex shader source
 const vertexShaderSource = `
     attribute vec3 a_position;
